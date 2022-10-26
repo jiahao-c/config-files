@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 16,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.cursorStyle": "line"
+}
